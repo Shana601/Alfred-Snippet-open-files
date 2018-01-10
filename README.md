@@ -1,5 +1,5 @@
 # Alfred-Snippet-open-files
-Description: Alfred workflow for snippet trigger open files/folders and drop &amp; drop attach files anywhere
+Description: Alfred workflow for snippet trigger open/attach files/folders and drop &amp; drop attach files anywhere
 
 ---
 
